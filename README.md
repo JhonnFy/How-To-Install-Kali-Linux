@@ -56,5 +56,6 @@ How to install Kali Linux
 
 ![image](https://github.com/JhonnFy/How-to-install-Kali-Linux/assets/97255802/b5159c8f-be0b-430a-a065-0af23b64ea3e)
 
+![image](https://github.com/JhonnFy/How-to-install-Kali-Linux/assets/97255802/a77f8ac5-b5c9-48b2-861c-bf4a233c7ec0)
 
 
