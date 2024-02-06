@@ -1,9 +1,6 @@
 # How-to-install-Kali-Linux
 How to install Kali Linux
 
-![image](https://github.com/JhonnFy/How-to-install-Kali-Linux/assets/97255802/3b5079ca-b32f-4e3b-a5a7-65953c44b309)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
 ![image](https://github.com/JhonnFy/How-to-install-Kali-Linux/assets/97255802/0e475f26-abcd-4a94-b639-3a61e545caee)
