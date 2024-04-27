@@ -2,7 +2,7 @@
 ![image](https://github.com/JhonnFy/How-to-install-Kali-Linux/assets/97255802/f40fd27c-166a-4ce2-bb75-110112f0776c)
 
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
 
 
 ![image](https://github.com/JhonnFy/How-to-install-Kali-Linux/assets/97255802/0e475f26-abcd-4a94-b639-3a61e545caee)
